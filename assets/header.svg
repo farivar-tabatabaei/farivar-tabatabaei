@@ -1,7 +1,8 @@
-<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg role="img" viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<title>Farivar Tabatabaei's Profile Header</title>
 
 <style>
-
 svg text {
   transform-origin: 55% 50%;
   transform: translate(0%, -40%) rotate(180deg);
@@ -77,7 +78,7 @@ rect.headerRect:hover {
   animation-duration:5.2s;
 }
 .gooeff {
-  	filter: url(#goo);
+  filter: url(#goo);
 }
 #wave2 {
   animation-duration:5s;
@@ -118,106 +119,97 @@ rect.headerRect:hover {
 }
 @keyframes underline_move {
   to {
-    transform: translateX(-39px);
+    transform: translateX(-64.6px);
   }}
 
-g.typingUnderline rect {
-   animation: 
-    blink 0.5s infinite, 
-    underline_move 4s steps(24, end) forwards;
+g.typingUnderline rect{
+    animation: 
+    blink 0.522s infinite, 
+    underline_move 6.0s steps(35, end) forwards;
 }
 </style>
 
+<defs> 
+  <filter id="goo">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur"/>
+    <feColorMatrix in="blur" mode="matrix" values="
+      1 0 0 0 0  
+      0 1 0 0 0  
+      0 0 1 0 0  
+      0 0 0 13 -9" result="goo"
+    />
+    <xfeBlend in="SourceGraphic" in2="goo" />
+  </filter>
+  <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+</defs>
 
+<rect fill="#AAA" fill-opacity="50%" x="0" y="1" width="100%" height="0.5"></rect>
 
- <defs> 
-    <filter id="goo">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
-      <feColorMatrix in="blur" mode="matrix" values="
-           1 0 0 0 0  
-           0 1 0 0 0  
-           0 0 1 0 0  
-           0 0 0 13 -9" result="goo" />
-      <xfeBlend in="SourceGraphic" in2="goo" />
-  	</filter>
-   
-    <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
-  </defs> 
+<use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use>
+<use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
 
-  <rect fill="#AAA" fill-opacity="50%" x="0" y="1" width="100%" height="0.4" ></rect>
- 
-  <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
-  <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
- 
-  <g class="gooeff" filter="url(#goo)">
-    <circle class="drop drop1" cx="95" cy="2" r="8.8"  />
-    <circle class="drop drop2" cx="35" cy="2.5" r="7.5"  />
-    <circle class="drop drop3" cx="26" cy="2.8" r="9.2"  />
-    <circle class="drop drop4" cx="14" cy="2" r="8.8"  />
-    <circle class="drop drop5" cx="22" cy="2.5" r="7.5"  />
-    <circle class="drop drop6" cx="6" cy="2.8" r="9.2"  />
-      
-    <circle class="drop drop1" cx="45" cy="4.4" r="8.8"  />
-    <circle class="drop drop2" cx="99" cy="4.1" r="7.5"  />
-    <circle class="drop drop3" cx="8" cy="3.8" r="9.2"  />
-    <circle class="drop drop4" cx="3" cy="4.4" r="8.8"  />
-    <circle class="drop drop5" cx="7" cy="4.1" r="7.5"  />
-    <circle class="drop drop6" cx="10" cy="4.3" r="9.2"  />
-    
-    <circle class="drop drop1" cx="32" cy="5.4" r="8.8"  />
-    <circle class="drop drop2" cx="5.2" cy="5.1" r="7.5"  />
-    <circle class="drop drop3" cx="0.2" cy="5.3" r="9.2"  />
-    <circle class="drop drop4" cx="3.2" cy="5.4" r="8.8"  />
-    <circle class="drop drop5" cx="14.2" cy="5.1" r="7.5"  />
-    <circle class="drop drop6" cx="17.2" cy="4.8" r="9.2"  />
-      
-    <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
-  </g>  
+<g class="gooeff" filter="url(#goo)">
+  <circle class="drop drop1" cx="95" cy="2" r="8.8"  />
+  <circle class="drop drop2" cx="35" cy="2.5" r="7.5"  />
+  <circle class="drop drop3" cx="26" cy="2.8" r="9.2"  />
+  <circle class="drop drop4" cx="14" cy="2" r="8.8"  />
+  <circle class="drop drop5" cx="22" cy="2.5" r="7.5"  />
+  <circle class="drop drop6" cx="6" cy="2.8" r="9.2"  />
 
-<rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
+  <circle class="drop drop1" cx="45" cy="4.4" r="8.8"  />
+  <circle class="drop drop2" cx="99" cy="4.1" r="7.5"  />
+  <circle class="drop drop3" cx="8" cy="3.8" r="9.2"  />
+  <circle class="drop drop4" cx="3" cy="4.4" r="8.8"  />
+  <circle class="drop drop5" cx="7" cy="4.1" r="7.5"  />
+  <circle class="drop drop6" cx="10" cy="4.3" r="9.2"  />
+
+  <circle class="drop drop1" cx="32" cy="5.4" r="8.8"  />
+  <circle class="drop drop2" cx="5.2" cy="5.1" r="7.5"  />
+  <circle class="drop drop3" cx="0.2" cy="5.3" r="9.2"  />
+  <circle class="drop drop4" cx="3.2" cy="5.4" r="8.8"  />
+  <circle class="drop drop5" cx="14.2" cy="5.1" r="7.5"  />
+  <circle class="drop drop6" cx="17.2" cy="4.8" r="9.2"  />
+
+  <use id="wave1" class="wave" xlink:href="#wave" x="0" y="1" />
+</g>  
+
+<rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="17"/>
 
 <path id="nameTyping">
   <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
 </path>
 
-<text font-family="Courier New" font-size=".19em" fill="white"
-      font-weight="bold" letter-spacing="2">
+<text font-family="Courier New" font-size=".19em" fill="white" font-weight="bold" letter-spacing="2">
   <textPath xlink:href="#nameTyping" >
       Farivar Tabatabaei
   </textPath>
 </text>
 
 <g class="typingUnderline">
-  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
-      <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
+  <rect fill="#FFFFFF" x="86" y="20.4" width="2.5" height="0.4">
+    <animate attributeName="visible" from="visible" to="visible" dur="9.4s" fill="freeze"/>
   </rect>
 </g>
 
 <path id="descriptionTyping">
-  <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
-           dur="5.8s" begin="0s" fill="freeze"/>
+  <animate attributeName="d" from="m42,-3 h0" to="m42,-3 h100" dur="5s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+<text x="44" font-family="Helvetica" font-size=".12em" fill="white" text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      SysAdmin, Software Architecture, DevOps Engineer, Science &amp; Technology.
+      DevOps Engineer and SysaAdmin
   </textPath>
 </text>
 
-<text x="2" y="12" font-family="Helvetica" font-size=".22em" 
-      fill="#AAA" font-weight="bold"> 
+<text x="12" y="12" font-family="Helvetica" font-size=".22em" fill="#AAA" font-weight="bold"> 
       Hi there!
 </text>
 
-<text x="22" y="12" font-family="Helvetica" font-size=".22em"
-      fill="#AAA" font-weight="bold"> 
+<text x="32" y="12" font-family="Helvetica" font-size=".22em" fill="#AAA" font-weight="bold"> 
       , I'm Farivar Tabatabaei
 </text>
 
-
-<image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;" 
-width="4" x="17" y="8.5"
+<image style="overflow:visible;clip-path:url(#mask);TWFkZUJ5VGFjY2E=;" width="4" x="16" y="8.5"
 xlink:href="data:image/gif;base64,R0lGODlh8QDqAPcAANqnNNuoNNuoNdypNt2qN9upOd6rON+sOduqPNysP+CsN+GtN+SvN+CtOuGuPOKvPeWwOeaxOuOwPuSxP+mzOeu1O+mzPe63PO+5P/O7PvO7P/O8P/S8P9ysQd2vR96wSt6xTt+zUeWyQOazQee0Qum1Qei1Q+u3Q+23QOq3Reu4Ru25RO+6RO+7Rey5SO26Se67Su+8S/O7QvO9Q/S8QfG7RfC8R/a/Rfa/RvO+Sfa/SPC9TPO/TPK/TuC0VOC1V+C2WOG2WuG4XeK6Y+O8ZuO9aOS+a+S/b/bARvfASPfCSvPAT/TATfXBTvjCS/jDTPnDTfnETfnFTvrFT/TBUPbDUfbDUvfEU/jEUfvGUvrHU/vHU/jFVPrHVvvIVvzIVPzJVf3JVv3KV/vIWP3KWP7LWP7LW//MWf/MW//NXP/NXeXBcuXCdebDd+fFfOjHgejIhPnFU/3JV/rGUduoN92tQ/zJWfG+TfnGVOOvOvvHUtqnNe67RfXASfnFT+OuOPG5Pd+rNvnGVfC6QuK5X+ezPPW+Q/XCUfS+R+u2QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BA0EAC0AIf8LTkVUU0NBUEUyLjADAQAAACH/C3htcCBkYXRheG1w/z94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbXRhIHhtbG5zOng9ImFkb2JlOm5zOm1ldGEvIiB4OnhtcHRrPSJBZG9iZSBYTVAgQ29yZSA1LjYtYzE0MCA3OS4xNjA0NTEsIDIwMTcvMDUvMDYtMDE6MDg6MjEgICAgICAgICI+PHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3Lncub3JnLzE5OTkvMDIvMjItcm
 RmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJmOmFib3V0PSIiIP94bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bW5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bXA6Q3JlYXRvclRvb2w9IkFkb2JlIFBob3Rvc2hvcCBDQyAyMDE4IChNYWNpbnRvcykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6Qjc3OTBFMzAxMjcxMTFFOUFEQjVDRDdCQkU2MTD/RTU3IiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOkI3NzkwRTMxMTI3MTExRUFEQjVDRDdCQkU2MTBFNTciPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieHAuaWlkOkI3NzkwRTJFMTI3MTExRTlBREI1Q0Q3QkJFNjEwRTU3IiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOkI3NzkwRTJGMTI3MTExRTlBREI1Q0Q3QkJFNjEwRTU3Ii8+IDwvcmRmOkRzY3JpcHRpb24+ID

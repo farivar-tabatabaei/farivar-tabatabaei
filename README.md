@@ -26,7 +26,7 @@ I'm a **Computer Engineering Student** at KSU🎓. I'm also a **Tech Enthusiast 
   - 🤖 Robotics;
   - 🏡 Smart Homes;
 </br>
-</br>
+
 - 📝 I write technical reviews, blogs, news;
 - 👯 I’m looking to collaborate on [HodHod](https://github.com/farivar-tabatabaei/HodHod/);
 - 🤔 I’m looking for help with DevOps;
@@ -40,7 +40,8 @@ I'm a **Computer Engineering Student** at KSU🎓. I'm also a **Tech Enthusiast 
 ### 🖥️ My DevSetup
 
 <img src="https://img.shields.io/badge/ROG-555555.svg?&style=flat&logo=republicofgamers&logoColor=DE272C">
-<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat&logo=windows&logoColor=0078D6"><img src="https://img.shields.io/badge/Manjaro-555555.svg?&style=flat&logo=manjaro&logoColor=34be5b">
+<img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat&logo=windows&logoColor=0078D6">
+<img src="https://img.shields.io/badge/Manjaro-555555.svg?&style=flat&logo=manjaro&logoColor=34be5b">
 <img src="https://img.shields.io/badge/VS Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat&logo=powershell&logoColor=white">
 <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat&logo=spotify&logoColor=1ED760">
