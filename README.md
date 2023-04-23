@@ -1,4 +1,6 @@
-# 📬 Find me at
+![Farivar Tabatabaei's Profile Header](./assets/header.svg)
+
+## 📬 Find me at
 
 [![Github Badge](http://img.shields.io/badge/Github-black?style=flat&logo=github&link=https://github.com/farivar-tabatabaei/)](https://github.com/farivar-tabatabaei/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/farivar-tabatabaei/)](https://www.linkedin.com/in/farivar-tabatabaei)
@@ -22,7 +24,6 @@ I'm a **Computer Engineering Student** at KSU🎓. I'm also a **Tech Enthusiast 
   - 🛠 DIY Raspberry Pi Projects;
   - 🤖 Robotics;
   - 🏡 Smart Homes;
-</br>
 
 - 📝 I write technical reviews, blogs, news;
 - 👯 I’m looking to collaborate on [HodHod](https://github.com/farivar-tabatabaei/HodHod/);
@@ -31,7 +32,6 @@ I'm a **Computer Engineering Student** at KSU🎓. I'm also a **Tech Enthusiast 
 - 📙 Check out my [Resume](https://www.linkedin.com/in/farivar-tabatabaei/);
 - 🎉 Fun-Fact: I ❤️ Servers, Networks and watching lots of Movies🎬;
 - 📫 How to reach me: me@farivart.ir;
-</br>
 
 ### 🖥️ My DevSetup
 
@@ -46,9 +46,14 @@ I'm a **Computer Engineering Student** at KSU🎓. I'm also a **Tech Enthusiast 
 
 ### ⚙️ Some Tool and Tech I use
 
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
+<code><img height="30" src="./assets/logo/python-logo-only.svg"></code>
+<code><img height="30" src="./assets/logo/cpp-logo.svg"></code>
+<code><img height="30" src="./assets/logo/grafana-logo.svg"></code>
+<code><img height="30" src="./assets/logo/docker-logo.png"></code>
+<code><img height="30" src="./assets/logo/kubernetes-logo.svg"></code>
+<code><img height="30" src="./assets/logo/jenkins-logo.svg"></code>
+<code><img height="30" src="./assets/logo/nginx-logo.svg"></code>
+<code><img height="30" src="./assets/logo/slack-logo.svg"></code>
+<code><img height="30" src="./assets/logo/nodejs-logo.svg"></code>
+<code><img height="30" src="./assets/logo/mongodb-logo.svg"></code>
+<code><img height="30" src="./assets/logo/raspberrypi-logo.svg"></code>
