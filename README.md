@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farivar-tabatabaei&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=farivar-tabatabaei.farivar-tabatabaei" alt="Visitors" />
+</p>
+
 ## 📬 Find me at
 
 [![Github Badge](http://img.shields.io/badge/Github-black?style=flat&logo=github&link=https://github.com/farivar-tabatabaei/)](https://github.com/farivar-tabatabaei/)
@@ -15,26 +20,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FFarivarTB&style=flat&logo=x&label=Twitter
 )](https://x.com/FarivarTB)
 
-## 👨🏼‍💻 About Me
-
-- I'm a passionate and self-driven software developer with 4 years of professional experience and over 6 years of hands-on programming. I specialize in backend development and system design, with solid expertise in Python and intermediate skills in C#, currently expanding into Rust, embedded systems, and low-level programming.
-
-- Currently, I'm building my own startup ([Snacksy](https://github.com/Hyperion-Forge/Linksy)) and diving deeper into **distributed systems** and **data intensive applications** with the long-term ambition of contributing to next-gen technologies — specifically aiming to work at companies like SpaceX as an embedded or software engineer.
-
-- My past projects include designing and developing a **license plate detection and cargo management system**, a **concrete mixer fleet management system** and a **bank safe deposit box management application**.
-
-- I have a growing understanding of **Systems Design**, Systems Administration, DevOps, and IoT. I'm enthusiastic about solving complex problems, experimenting with servers, and working at the intersection of hardware and software.
-
-- While I've worked independently for most of my career, I have experience in **Leading Teams** and **Technical Lead**. And I'm excited by the idea of eventually stepping into CTO or higher level Tech Lead roles. My approach is direct, analytical, and vision-oriented — I thrive when I'm tackling technical challenges that move us closer to a better technological future.
-
-## 🌱 What Drives Me
-
-- Building systems that make a difference.
-
-- Pushing boundaries in embedded tech and software architecture.
-
-- Learning fast and deeply — especially when it comes to new tools, languages, and domains.
-
 ## 🌍 Open To
 
 ✅ Full-time Backend / Software Engineering Roles
@@ -43,38 +28,28 @@
 
 ✅ Mentorship or Collaboration Opportunities
 
-## ⚡️ Quick Facts
+## 👨🏼‍💻 About Me
 
-- 🔭 Currently building [Snacksy](https://github.com/Hyperion-Forge/Linksy) — a fast, lightweight URL shortener
-- 🌱 Sharpening my **System Design** and **Distributed Systems** skills
+**Backend Engineer** with 4+ years of professional experience specializing in **Python**, **Rust**, and **Distributed Systems**. Currently building [Linksy](https://github.com/Hyperion-Forge/Linksy) while expanding into embedded systems and low-level programming.
 
-- I enjoy working on
-  - 🛠 System Design Projects;
-  - 🖼 Systems Administration;
-  - 🛠 DIY Raspberry Pi Projects;
-  - 🤖 Robotics;
-  - 🏡 Smart Homes;
+**Past Work:** License plate detection systems, fleet management platforms, banking applications
 
-- 📝 I write technical reviews, blogs, news;
-- 🤝 I'm looking for collaborators for [Snacksy](https://github.com/Hyperion-Forge/Linksy);
-- 🤔 I’m looking for help with DevOps;
-- 💬 Ask me about Python, System Design, Back-End solutions, WPF Applications, Computer Networks, Raspberry Pi and Smart Homes;
-- 📙 Check out my [Resume](https://www.linkedin.com/in/farivar-tabatabaei/);
-- 📫 How to reach me: <me@farivart.ir>;
+**Goal:** Contributing to next-gen tech at companies like SpaceX as an embedded or software engineer
 
-### 🖥️ My DevSetup
+**Leadership:** Experience in technical lead roles, aspiring to CTO-level positions
 
-![ROG Logo](https://img.shields.io/badge/ROG-555555.svg?&style=flat&logo=republicofgamers&logoColor=DE272C)
-![Windows Logo](https://img.shields.io/badge/Windows-555555.svg?&style=flat&logo=windows&logoColor=0078D6)
-![Debian Logo](https://img.shields.io/badge/Debian-555555.svg?&style=flat&logo=debian&logoColor=d80150)
-![VS Code Logo](https://img.shields.io/badge/VS_Code-555555?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Terminal logo](https://img.shields.io/badge/Terminal-555555.svg?&style=flat&logo=gnometerminal&logoColor=241F31)
-![PostgreSQL Logo](https://img.shields.io/badge/PostgreSQL-555555.svg?&style=flat&logo=postgresql&logoColor=#4169E1)
-![VMWare Logo](https://img.shields.io/badge/VMware-555555.svg?&style=flat&logo=vmware&logoColor=607078)
-![Termius Logo](https://img.shields.io/badge/Termius-555555.svg?&style=flat&logo=Termius&logoColor=FFFFFF)
-![Postman Logo](https://img.shields.io/badge/Postman-555555.svg?&style=flat&logo=postman&logoColor=FF6C37)
+## ⚡️ Currently
 
-### ⚙️ Tech Stack
+- 🔭 Building [Linksy](https://github.com/Hyperion-Forge/Linksy) — Fast, lightweight URL shortener
+- 🌱 Deep diving into **System Design** & **Distributed Systems**
+- 🤝 Open to collaboration on Linksy and DevOps projects
+- 💬 Ask me about: **Python**, **System Design**, **Backend Architecture**, **Raspberry Pi**, **Smart Homes**
+
+## 🛠️ Interests
+
+🖥️ System Design & Architecture  •  🏠 Smart Home Automation  •  🤖 Robotics  •  📝 Technical Writing
+
+## ⚙️ Tech Stack
 
 **Languages:**
 
@@ -119,7 +94,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## � Certifications & Learning
+
+<!-- Add certifications later-->
+
+📚 Continuously learning through hands-on projects, technical books, and open-source contributions
+
+---
+
+## �🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=farivar-tabatabaei&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
@@ -129,10 +112,31 @@
 
 ## 🚀 Featured Projects
 
+### 🔗 [Linksy](https://github.com/Hyperion-Forge/Linksy) - URL Shortener Platform
+
+A high-performance URL shortening service built with modern backend practices. Features distributed architecture, Redis caching, and comprehensive API design.
+
+**Tech:** Python • FastAPI • Redis • PostgreSQL • Docker
+
 <p align="center">
   <a href="https://github.com/Hyperion-Forge/Linksy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyperion-Forge&repo=Linksy&theme=tokyonight&hide_border=true" alt="Snacksy" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hyperion-Forge&repo=Linksy&theme=tokyonight&hide_border=true" alt="Linksy" />
   </a>
+</p>
+
+<!-- Add more featured projects below -->
+
+---
+
+## ⏱️ Coding Activity
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats will appear here automatically if you set up WakaTime integration -->
+<!-- Visit https://github.com/anmol098/waka-readme-stats for setup instructions -->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=farivar_tabatabaei&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
 </p>
 
 ---
@@ -148,11 +152,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farivar-tabatabaei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farivar-tabatabaei&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
+## 📈 Contribution Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farivar-tabatabaei&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farivar-tabatabaei&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=farivar-tabatabaei&theme=tokyonight" alt="Profile Summary" />
 </p>
