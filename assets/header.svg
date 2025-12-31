@@ -195,9 +195,9 @@ g.typingUnderline rect{
   <animate attributeName="d" from="m42,-3 h0" to="m42,-3 h100" dur="5s" begin="0s" fill="freeze"/>
 </path>
 
-<text x="44" font-family="Helvetica" font-size=".12em" fill="white" text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
+<text x="47" font-family="Helvetica" font-size=".12em" fill="white" text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      DevOps Engineer and SysaAdmin
+      Software Engineer and Back-End Developer
   </textPath>
 </text>
 
